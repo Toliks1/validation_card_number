@@ -41,3 +41,5 @@ function  mainFunc(userCard){
 };
 
 alert(mainFunc(cardNumber));
+
+console.log('change1')
